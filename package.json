@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "postcss": "postcss main.css --use postcss-import --output dist/main.css --no-map"
+  },
+  "dependencies": {
+    "postcss": "^8.4.14",
+    "postcss-cli": "^9.1.0",
+    "postcss-import": "^14.1.0"
+  }
+}
